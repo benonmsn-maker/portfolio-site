@@ -1,0 +1,8 @@
+jupyter
+ipykernel
+pandas
+pypdf
+crewai
+crewai-tools
+langchain-community
+tavily-python
